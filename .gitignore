@@ -1,0 +1,8 @@
+#ignore the node_modules
+node_modules
+
+#ignore lock files
+*.lock
+
+#ignore the note.md
+note.md
