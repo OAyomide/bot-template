@@ -6,3 +6,6 @@ node_modules
 
 #ignore the note.md
 note.md
+
+#ignore config file
+src/config/config.js

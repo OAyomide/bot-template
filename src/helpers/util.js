@@ -33,10 +33,6 @@ function SendText(userid, text) {
 
   CallSendAPI(data)
 }
-// function SendGallery(userid) {
-//   const data = {
-
-// }
 
 async function CallSendAPI(data) {
   try {
